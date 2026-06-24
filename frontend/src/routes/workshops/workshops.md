@@ -33,7 +33,7 @@
 -   Term 2 Week 4 - Markov Chains:
     [slides][mathematics/2026/Markov Chains Workshop.pdf],
     [problems][mathematics/2026/Markov Chains Worksheet.pdf],
-    [solutions][mathematics/2026/Markov Chains Worksheet Solutions.pdf].
+    [solutions][mathematics/2026/Markov Chains Worksheet Solutions.pdf],
     [recording][https://www.youtube.com/watch?v=ndjkVzUswjU]
        
 # Programming 2025
