@@ -48,6 +48,11 @@
 -   Term 2 Week 5 - Poker Workshop:
     [slides](mathematics/2026/Poker_Workshop%20Slides.pdf),
     [recording](https://www.youtube.com/watch?v=yoVMc2XGAB0)
+-   Term 2 Week 8 - The Basis of linear Algebra:
+    [slides](mathematics/2026/The%20Basis%20of%20Linear%20Algebra%20Slides.pdf),
+    [problems](mathematics/2026/Linear%20Algebra%20Worksheet.pdf),
+    [solutions](mathematics/2026/Linear%20Algebra%20Worksheet%20Solutions.pdf),
+    [recording](https://www.youtube.com/watch?v=bdqalLufW1A)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
