@@ -53,6 +53,9 @@
     [problems](mathematics/2026/Linear%20Algebra%20Worksheet.pdf),
     [solutions](mathematics/2026/Linear%20Algebra%20Worksheet%20Solutions.pdf),
     [recording](https://www.youtube.com/watch?v=bdqalLufW1A)
+-   Term 2 Week 10 - Entropy in Combinatorics Talk:
+    [slides](mathematics/2026/Entropy_in_combinatorics%20(qr-code).pdf),
+    [recording](https://youtube.com/live/WIxo4XEL5a4)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
