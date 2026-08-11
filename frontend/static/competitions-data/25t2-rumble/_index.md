@@ -13,6 +13,6 @@ Prize Winners
 - 2nd Place: Tinlone Cheng, Kylie Lin, Juan Lucas Fabul Callo (Therealtin)
 - 3rd Place: Jianxiang Zhao, MaJin, ZiHuai Lin (Jason)
 - Raffle: Alex LY, John Wu, Joshua Yee (TinkyWinky)
-- Raffle: Keith Looi, Eshwaar Suresh Kumar, Abdullah Erradi (Penislover123)
+- Raffle: Keith Looi, Eshwaar Suresh Kumar (Penislover123)
 
 Problems by Frank Zhang, Jerry Li, Ashley Clayton, Joshua Li, Noah Batsukh and Luke Zeng
