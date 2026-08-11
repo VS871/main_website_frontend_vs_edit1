@@ -56,6 +56,11 @@
 -   Term 2 Week 10 - Entropy in Combinatorics Talk:
     [slides](mathematics/2026/Entropy_in_combinatorics%20(qr-code).pdf),
     [recording](https://youtube.com/live/WIxo4XEL5a4)
+-   Term 2 Week 10 - The Graph Theory Connection in Competitive Mathematics:
+    [slides](mathematics/2026/Graph%20Theory%20Workshop%20Slides.pdf),
+    [problems](mathematics/2026/Graph%20Theory%20Worksheet.pdf),
+    [solutions](mathematics/2026/Graph%20Theory%20Worksheet%20Solutions.pdf),
+    [recording](https://www.youtube.com/watch?v=5vnqAbRU7j8)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
