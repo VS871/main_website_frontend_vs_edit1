@@ -28,7 +28,7 @@
     <p class="text-lg leading-relaxed">
         Competitive Programming (CP, also known as Informatics) is an activity where participants try to solve well-defined computational problems using code.
         <br/><br/>
-        These problems can be thought to train and test you in three related areas:
+        These problems are designed to train and test you in three related areas:
     </p>
     <ol class="list-decimal list-outside pl-5 text-lg leading-relaxed ml-5">
         <li><b>Problem solving.</b></li>
@@ -115,7 +115,7 @@
         <li><b>Python</b> is easy to learn and use, but is slow, and so may not be able to solve certain problems.</li>
     </ol>
     <p class="text-lg leading-relaxed mb-4">
-        Most C code will compile as C++, so if you have only learnt C from UNSW, you can start with that and pick up any extra functionality from C++ as required.
+        Much C code will compile as C++, so if you have only learnt C from UNSW, you can start with that and pick up any extra functionality from C++ as required.
     </p>
 
     <h1 class="text-4xl font-bold text-[#5b8ddb] tracking-tight">
@@ -123,10 +123,10 @@
     </h1>
 
     <p class="text-lg leading-relaxed">
-        The best way to get started is to start solving some problems. There are many free online training judges and contests available. The most well known one is <a href="https://codeforces.com/" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline"><b>Codeforces</b></a>, and we recommend these steps to start off with:
+        The best way to get started is to start solving some problems. There are many free online training judges and contests available. The most well-known one is <a href="https://codeforces.com/" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline"><b>Codeforces</b></a>, and we recommend these steps to start off with:
     </p>
     <ol class="list-decimal list-outside pl-5 text-lg leading-relaxed ml-5">
-        <li><b>Solve a really simple problem</b>, like <a href="https://codeforces.com/problemset/problem/977/A" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline"><i>Wrong Subtraction</i></a>, (or Vases from earlier, although this isn’t on Codeforces) to get used to reading input and writing output.</li>
+        <li><b>Solve a really simple problem</b>, like <a href="https://codeforces.com/problemset/problem/977/A" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline"><i>Wrong Subtraction</i></a> (or Vases from earlier, although this isn’t on Codeforces) to get used to reading input and writing output.</li>
         <li><b>Solve more problems</b>, of increasing difficulty. You can search problems by difficulty rating in the <a href="https://codeforces.com/problemset" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">Problem Set</a>.</li>
         <li><b>Try some contests</b>. The Educational, Division 3 and Division 4 contests are targeted towards beginners.</li>
     </ol>
