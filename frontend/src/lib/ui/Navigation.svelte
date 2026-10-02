@@ -46,6 +46,12 @@
                 "The official constitution of CPMSoc UNSW"
         },
         {
+            title: "Grievances",
+            href: "/grievances",
+            description:
+                "Our grievance resolution policy and form"
+        },
+        {
             title: "Sponsors",
             href: "/sponsors",
             description:
