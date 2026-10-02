@@ -109,11 +109,6 @@
 
     <p class="text-lg leading-relaxed">
         A requirement for CP is knowing how to write and run code. If you are just starting out or even completely new, that’s okay – many problems are accessible with only a very basic understanding of programming, and you can learn as you go.
-        <br/><br/>
-        The languages available in the ICPC are C++, Python and Java, but different platforms support different languages. There are many online tutorials for learning a language.
-        <br/><br/>
-        C++ is the most commonly used language in CP, for its speed and its standard template library.
-        Python is easy to learn and use, but is slow, and so may not be able to solve certain problems.
     </p>
     <ol class="list-decimal list-outside pl-5 space-y-2 text-lg ml-4">
         <li><b>C++</b> is the most commonly used language in CP, for its speed and its standard template library.</li>
@@ -132,7 +127,7 @@
     </p>
     <ol class="list-decimal list-outside pl-5 text-lg leading-relaxed ml-5">
         <li><b>Solve a really simple problem</b>, like <a href="https://codeforces.com/problemset/problem/977/A" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline"><i>Wrong Subtraction</i></a>, (or Vases from earlier, although this isn’t on Codeforces) to get used to reading input and writing output.</li>
-        <li><b>Solve more problems</b>, of increasing difficulty. You can search problems by difficulty rating in the <b>Solve a really simple problem</b>, like <a href="https://codeforces.com/problemset" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">Problem Set</a>.</li>
+        <li><b>Solve more problems</b>, of increasing difficulty. You can search problems by difficulty rating in the <a href="https://codeforces.com/problemset" target="_blank" rel="noreferrer" class="text-[#7862e2] hover:underline">Problem Set</a>.</li>
         <li><b>Try some contests</b>. The Educational, Division 3 and Division 4 contests are targeted towards beginners.</li>
     </ol>
     <p class="text-lg leading-relaxed">
