@@ -1,5 +1,5 @@
 <script>
-    const grievanceFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLSeUAE6BX2ACj-9gv9kswcYFGFyJNYnggCF6gdKZmfG2kAf6cg/viewform";
+    const grievanceFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLSfWOeoL3eoaZV9AVT4z4oYAr48_NeVAkcIK4yHKfR4m372YvA/viewform?usp=header";
 </script>
 
 <div class="max-w-[1000px] mx-auto gap-4 flex flex-col py-6 px-10">
