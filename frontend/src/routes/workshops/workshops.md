@@ -74,7 +74,7 @@
     [slides](mathematics/2026/Functional%20Equations%20Slides.pdf),
     [problems](mathematics/2026/Functional%20Equations%20Worksheet.pdf),
     [solutions](mathematics/2026/Functional%20Equations%20Solutions.pdf),
-    [recording](https://www.youtube.com/watch?v=XsZexehy4pA),
+    [recording](https://www.youtube.com/watch?v=XsZexehy4pA)
 
 # Programming 2025
 -   Term 1 Week 2 - Intro to Competitive Programming:
